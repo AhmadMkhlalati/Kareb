@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "67c06a5ef1a48641e15df1d54bd2ba6a",
+    "content-hash": "58d1375bc64105f5ff1a3b23df50c5c4",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4049,16 +4049,16 @@
         },
         {
             "name": "reinink/remember-query-strings",
-            "version": "v0.1.0",
+            "version": "v0.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/reinink/remember-query-strings.git",
-                "reference": "91c7723a4545ba96d0474581563b30cd262f56e2"
+                "reference": "b0b2b119ecae87948d927e268af89442f39c8de7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reinink/remember-query-strings/zipball/91c7723a4545ba96d0474581563b30cd262f56e2",
-                "reference": "91c7723a4545ba96d0474581563b30cd262f56e2",
+                "url": "https://api.github.com/repos/reinink/remember-query-strings/zipball/b0b2b119ecae87948d927e268af89442f39c8de7",
+                "reference": "b0b2b119ecae87948d927e268af89442f39c8de7",
                 "shasum": ""
             },
             "type": "library",
@@ -4087,9 +4087,9 @@
             ],
             "support": {
                 "issues": "https://github.com/reinink/remember-query-strings/issues",
-                "source": "https://github.com/reinink/remember-query-strings/tree/master"
+                "source": "https://github.com/reinink/remember-query-strings/tree/v0.1.2"
             },
-            "time": "2019-04-02T17:35:40+00:00"
+            "time": "2022-09-20T18:44:08+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -10176,8 +10176,8 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.4|^8.0"
+        "php": "^8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.3.0"
 }
