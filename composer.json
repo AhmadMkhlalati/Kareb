@@ -12,7 +12,7 @@
         "beyondcode/laravel-websockets": "^2.0",
         "claudiodekker/inertia-laravel-testing": "^2.2",
         "fideloper/proxy": "^4.4",
-        "fruitcake/laravel-cors": "^2.0",
+        "fruitcake/laravel-cors": "^3.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "inertiajs/inertia-laravel": "^0.3.6",
         "lab404/laravel-impersonate": "^1.7",
